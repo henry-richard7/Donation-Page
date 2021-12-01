@@ -1,0 +1,8 @@
+.wallet-address{
+    font-size: larger;
+}
+@media only screen and (max-width: 600px) {
+    .wallet-address{
+        font-size: small;
+    }
+}
